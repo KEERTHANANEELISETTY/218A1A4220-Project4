@@ -1,0 +1,23 @@
+header {
+    background-color: green;
+    padding: 10px;
+}
+nav ul li {
+    display: inline;
+    margin-right: 30px;
+}
+nav ul li a {
+    color: aliceblue;
+}
+p {
+    background-color: rgb(216, 242, 124);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+}
+footer {
+    padding: 20px 0;
+}
+footer center {
+    padding: 20px 0;
+}
